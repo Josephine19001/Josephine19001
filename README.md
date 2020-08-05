@@ -39,3 +39,5 @@
 [instagram]: https://www.instagram.com/_ms.gyamera_/?hl=en
 [linkedin]: https://fi.linkedin.com/in/gyamerajosephine
 
+
+<img align="left" alt="Josephine's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Josephine19001&show_icons=true&hide_border=true" />
