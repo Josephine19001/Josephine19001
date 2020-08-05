@@ -1,4 +1,4 @@
-### Hi there, I'm Josephing - aka [Jossy][website] 👋
+### Hi there, I'm Josephine - aka [Jossy][website] 👋
 
 ## I'm a Developer, Content Manager and Web Designer!
 
