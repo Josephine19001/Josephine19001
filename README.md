@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Content Manager and Web Designer!
 
-- 🔭 I’m currently training with Integrify!
+- 🔭 I’m currently working as a Software Developer at Nursebuddy Finland!
 - 👩‍💻 I’m looking to meeting new Developers and Content Mangers
 - 🥅 2020 Goals: Landing my first Developer job 💃🏾
 - ⚡ Fun fact: I love watching movies, playing Bball and Vball.
