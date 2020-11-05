@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a Software Developer at Nursebuddy Finland!
 - 👩‍💻 I’m looking to meeting new Developers and Content Mangers
-- 🥅 2020 Goals: Landing my first Developer job 💃🏾
+- 🥅 2020 Goals: Becoming an expert 💃🏾
 - ⚡ Fun fact: I love watching movies, playing Bball and Vball.
 
 ### Connect with me:
