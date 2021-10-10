@@ -1,10 +1,10 @@
 ### Hi there, I'm Josephine👋
 
-## I'm a Developer, Content Manager and Web Designer!
+## I'm a Developer!
 
-- 🔭 I’m currently working as a Software Developer at Nursebuddy Finland!
-- 👩‍💻 I’m looking to meeting new Developers and Content Mangers
-- 🥅 2020 Goals: Becoming an expert 💃🏾
+- 🔭 I’m currently working as a Software Developer in Smartly Finland!
+- 👩‍💻 I’m looking to meeting new Developers and Content Creators/Mangers
+- 🥅 2021 Goals: Diving more into Frontend 💃🏾
 - ⚡ Fun fact: I love watching movies, playing Bball and Vball.
 
 ### Connect with me:
