@@ -2,11 +2,6 @@
 
 ## I'm a Developer!
 
-- 🔭 I’m currently working as a Software Developer in Smartly Finland!
-- 👩‍💻 I’m looking to meeting new Developers and Content Creators/Mangers
-- 🥅 2021 Goals: Diving more into Frontend 💃🏾
-- ⚡ Fun fact: I love watching movies, playing Bball and Vball.
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
